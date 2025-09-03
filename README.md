@@ -1,2 +1,2 @@
-# -Rock-Paper-Scissors-Game
-A simple and fun implementation of the classic Rock-Paper-Scissors game.
+# Stone-Paper-Scissor-Game
+A classic Stone-Paper-Scissors game where the player competes against the computer. Built with HTML, CSS, and JavaScript, it features interactive gameplay, random computer choices, and instant results.
